@@ -1,2 +1,8 @@
 # 01-Interactive-Fiction
-Repo for a small Twine Interactive Fiction short story game
+# Project Name
+Context and date
+Description
+## Implementation
+## References
+## Future Development
+## Created by Jonah Lukin
